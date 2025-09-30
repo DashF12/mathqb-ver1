@@ -22,7 +22,7 @@ This groundbreaking app, designed to serve as a Question Storage and Organizatio
 ## Tech Stack
 Everthing is Local and Client-side.
 
-**Client:** Pythong, CTk, pickle
+**Client:** Python, CTk, pickle
 
 
 ## Roadmap
