@@ -3,7 +3,7 @@
 
 In the ever-evolving landscape of education, teachers face a multitude of challenges, from engaging students in the classroom to managing their daily workload. Amidst this demanding environment, a dedicated group of educators sought to revolutionize the way teachers interact with the invaluable currency of learning – questions.
 
-This groundbreaking app, designed to serve as a Question Storage and Organization Tool, is poised to transform the teaching experience. It offers a lifeline to educators who are navigating the intricacies of lesson planning, assessment, and student engagement.
+This app hosted locally is designed to serve as a Question Storage and Organization Tool, is poised to transform the teaching experience. It offers a lifeline to educators who are navigating the intricacies of lesson planning, assessment, and student engagement.
 
 "MathQBGEN” is not just another app; it's a digital ally that streamlines and enhances the way teachers prepare, organize, and access their questions.It's the ultimate tool in an educator's arsenal, designed by educators themselves who understand the daily struggles and aspirations of their fellow teachers.
 
