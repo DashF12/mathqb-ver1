@@ -12,7 +12,7 @@ This groundbreaking app, designed to serve as a Question Storage and Organizatio
 
 ## Demo Screenshots (Reference)
 
-![alt text](https://github.com/DashF12/assets/Demo/loginpage_demo.png "Logo Title Text 1")
+![alt text](https://github.com/DashF12/mathqb-ver1/blob/main/assets/Demo/loginpage_demo.png "Logo Title Text 1")
 
 
 ## Detailed Documentation
