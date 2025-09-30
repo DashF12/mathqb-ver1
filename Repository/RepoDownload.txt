@@ -1,0 +1,1 @@
+pip install [package] --no-index -f "[folder_path]"
