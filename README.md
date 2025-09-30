@@ -14,7 +14,7 @@ This groundbreaking app, designed to serve as a Question Storage and Organizatio
 
 ![alt text](https://github.com/DashF12/mathqb-ver1/blob/main/assets/Demo/userprof_demo.png "Logo title Text 2")
 ![alt text](https://github.com/DashF12/mathqb-ver1/blob/main/assets/Demo/example_demo.png "Logo title Text 2")
-![alt text](https://github.com/DashF12/mathqb-ver1/blob/main/assets/Demo/qtab_demo.png "Logo title Text 2")
+![alt text](https://github.com/DashF12/mathqb-ver1/blob/main/assets/Demo/qbtab_demo.png "Logo title Text 2")
 
 ## Detailed Documentation
 
